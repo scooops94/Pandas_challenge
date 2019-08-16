@@ -1,6 +1,9 @@
 # Pandas_HW
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 4f23c0ef7904d29e37d954ab26f4320fa9ff40c3
 Option 2: Academy of Py
 Education
 
@@ -32,6 +35,12 @@ Average Reading Score
 % Passing Math
 % Passing Reading
 Overall Passing Rate (Average of the above two)
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 4f23c0ef7904d29e37d954ab26f4320fa9ff40c3
 Top Performing Schools (By Passing Rate)
 Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
 School Name
@@ -45,19 +54,48 @@ Average Reading Score
 % Passing Reading
 Overall Passing Rate (Average of the above two)
 Bottom Performing Schools (By Passing Rate)
+<<<<<<< HEAD
 Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
 Math Scores by Grade**
 Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 Reading Scores by Grade
 Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 Scores by School Spending
+=======
+
+
+
+Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
+
+
+
+Math Scores by Grade**
+Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+
+
+Reading Scores by Grade
+Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+Scores by School Spending
+
+
+>>>>>>> 4f23c0ef7904d29e37d954ab26f4320fa9ff40c3
 Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
 Average Math Score
 Average Reading Score
 % Passing Math
 % Passing Reading
 Overall Passing Rate (Average of the above two)
+<<<<<<< HEAD
 Scores by School Size
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+=======
+
+
+Scores by School Size
+Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+
+
+>>>>>>> 4f23c0ef7904d29e37d954ab26f4320fa9ff40c3
 Scores by School Type
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
