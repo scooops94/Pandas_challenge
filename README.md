@@ -30,7 +30,7 @@ Average Reading Score
 % Passing Math
 % Passing Reading
 Overall Passing Rate (Average of the above two)
-
+Screen Shot 2019-08-16 at 9.43.57 AM
 
 
 Top Performing Schools (By Passing Rate)
